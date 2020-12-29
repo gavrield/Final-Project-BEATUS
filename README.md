@@ -1,5 +1,6 @@
 # Final-Project-BEATUS
-## VR Game for Oculus Rift music based
+### VR Game for Oculus Rift music based
+#### Summary
 For many years virtual reality has been a dream in the gaming world.
 It's hard to believe that just a decade ago the Oculus Rift released their first prototype and
 this whole area was so far away and undeveloped.
