@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 0ad55646692654b4eb9239733ed36cd4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - OptionsBtn: {instanceID: 0}
+  - MainButton: {instanceID: 0}
+  - screenToShow: {instanceID: 0}
+  - StartNewGameBtn: {instanceID: 0}
+  - HallOfFameBtn: {instanceID: 0}
+  - HowToPlayBtn: {instanceID: 0}
+  - CreditsBtn: {instanceID: 0}
+  - DifficultySlider: {instanceID: 0}
+  - OpenSound: {fileID: 3280330055453047273, guid: 5b777ce3d2a18bc4e804916cbdd19886,
+      type: 3}
+  - CloseSound: {fileID: 1605343074705727106, guid: b358e71b075dae74c9eb592add2d631b,
+      type: 3}
+  - SongSelected: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
